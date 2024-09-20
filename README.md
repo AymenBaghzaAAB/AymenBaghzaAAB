@@ -14,6 +14,7 @@ Projects:
  * Project 3: website for action gym: http://actiongym.sportsontheweb.net
  * Project 4: online web shop dashboard & web app
  * Project 5: currently working on a simulation application for rea estate agency
+
 Let's connect!
  * Email: aymenali123aymen@gmail.com
 <!---
