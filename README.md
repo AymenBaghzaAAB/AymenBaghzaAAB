@@ -2,6 +2,7 @@ Aymen Baghza
 Web Developer | Database Enthusiast | Data Analyst
 I'm a passionate web developer with a strong foundation in MIS. I'm particularly interested in crafting intuitive and efficient web applications using modern technologies. Additionally, I have a keen interest in database management and data analysis, leveraging my skills to extract valuable insights from data.
 * My portfolio: http://aymenbaghza.mypressonline.com
+  
 Skills:
  * Web Development: HTML, CSS, JavaScript, Vue.js, Python
  * Databases: MySQL
